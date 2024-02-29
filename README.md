@@ -1,29 +1,29 @@
-# CowLogic Circuits
+# Logic Circuit Projects
 
 ## Overview
 
-CowLogic Circuits is a collection of electronic projects that integrate logic circuits with solutions for challenges in the realm of cattle farming and agriculture. These projects utilize digital logic to address specific needs in cow management and welfare.
+This repository contains a collection of logic-circuit projects designed to showcase various applications of digital logic in electronic systems. Each project focuses on specific functionalities and features an integration of logic circuits.
 
 ## Projects
 
-### 1. Automated Cattle Gate System
+### 1. Automated Gate System
 
-- **Description:** Logic-circuit controlled gate system for efficient entry and exit of cows.
+- **Description:** Logic-circuit controlled gate system for efficient entry and exit.
 - **Components:** Microcontroller, sensors, actuators.
 - **Objective:** Optimize gate operation for controlled access and enhance security.
 
-### 2. Cow Behavior Monitoring Circuit
+### 2. Behavior Monitoring Circuit
 
-- **Description:** Implement a logic circuit-based system to monitor and analyze cow behavior.
+- **Description:** Implement a logic circuit-based system to monitor and analyze behavioral patterns.
 - **Components:** Sensors for motion, sound, or other behavior indicators.
-- **Objective:** Provide insights into cow well-being and alert farmers to unusual behavior.
+- **Objective:** Provide insights into user behavior or environmental changes.
 
-### 3. Smart Cow Barn Lighting System
+### 3. Smart Lighting System
 
-- **Description:** Design a logic-controlled lighting system for cow barns.
+- **Description:** Design a logic-controlled lighting system for indoor spaces.
 - **Components:** Light sensors, microcontroller, LED lighting.
-- **Objective:** Optimize lighting conditions to promote cow comfort and productivity.
+- **Objective:** Optimize lighting conditions for energy efficiency and user comfort.
 
 ## Circuit Diagrams
 
-![Automated Cattle Gate System](./diagrams/cattle_gate.png)
+![Automated Gate System]()
